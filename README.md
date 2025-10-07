@@ -66,17 +66,5 @@ GitHub: [@jatinder3762](https://github.com/jatinder3762)
 **ID 9087362**
 ---
 
-## 📜 License
-This project is open-source and available under the **MIT License**.
 
----
 
-## 💡 Notes
-If you’d like to extend this project, you can:
-- Add visual comparisons (before vs after cleaning)
-- Include screenshots of plots or output cells
-- Create a `CONTRIBUTING.md` for collaboration guidelines
-
----
-
-✅ *Developed as part of Week 5 coursework on Data Cleaning and Preprocessing.*
